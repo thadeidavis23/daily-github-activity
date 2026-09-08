@@ -42,8 +42,8 @@ jobs:
       # 3. Commit the change
       - name: Commit changes
         run: |
-          git config user.name "mwaka991"
-          git config user.email "ikinjakavenuke@gmail.com"
+          git config user.name "thadeidavis23"
+          git config user.email "davisthadei@yahoo.com"
 
           git add activity.log
 
